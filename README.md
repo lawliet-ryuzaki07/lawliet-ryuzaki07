@@ -13,9 +13,9 @@
 I'm a **Computer Science Student** passionate about **Artificial Intelligence** and **Machine Learning**. Currently exploring the fascinating world of **Computer Vision**, **Natural Language Processing**, and **LLMs** while continuously learning and building projects.
 
 ```python
-class GitGoblin:
+class Cry:
     def __init__(self):
-        self.username = "Gitgoblin"
+        self.username = "Cry"
         self.role = "Computer Science Student"
         self.status = "Learning & Building"
         
@@ -126,4 +126,4 @@ class GitGoblin:
 
 ---
 
-⭐️ **From GitGoblin** - *Learning, building, and growing every day* ⭐️
+⭐️ **From Cry** - *Learning, building, and growing every day* ⭐️
